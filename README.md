@@ -2,7 +2,7 @@
 <div align="center">
 🤖 J.A.R.V.I.S. GitHub Protocol HUD
 An immersive, 3D holographic web interface designed to guide you through unlocking secret GitHub Achievements.
-“SYSTEM ONLINE. BYPASSING STANDARD PROTOCOLS. LOADING ACHIEVEMENT MATRICES...”
+“SYSTEM ONLINE. BYPASSING STANDARD PROTOCOLS. LOADING ACHIEVEMENT MATRICES...”.
 </div>
 🌌 Overview
 The J.A.R.V.I.S. GitHub Protocol HUD is a single-file, front-end web application that provides step-by-step guides on how to unlock various GitHub profile badges (Quick Draw, Pull Shark, Galaxy Brain, etc.).
